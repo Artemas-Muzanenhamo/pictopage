@@ -1,1 +1,1 @@
-# [Pictopage](https://pictopage.com)
+# [Pictopage](http://pictopage.com)
