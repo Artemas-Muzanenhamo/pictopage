@@ -26,12 +26,12 @@
     "url": "https://github.com/Artemas-Muzanenhamo/pictopage"
   },
   "dependencies": {
-    "bootstrap": "^4.0.0-beta",
-    "jquery": "^3.2.1",
-    "popper.js": "^1.11.1"
+    "bootstrap": "*",
+    "jquery": "*",
+    "popper.js": "*"
   },
   "devDependencies": {
-    "browser-sync": "2.18.13",
-    "gulp": "^3.9.1"
+    "browser-sync": "*",
+    "gulp": "*"
   }
 }

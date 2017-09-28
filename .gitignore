@@ -1,1 +1,4 @@
 public-html/node_modules
+/.idea/workspace.xml
+/.idea/
+/public-html/package-lock.json
