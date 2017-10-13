@@ -1,8 +1,8 @@
 {
   "title": "Pictopage",
-  "name": "Artemas-Pictopage",
+  "name": "pictopage-website",
   "version": "4.0.0-beta",
-  "description": "Homepage to Pictopage Limited",
+  "description": "Pictopage Website",
   "keywords": [
     "css",
     "sass",
@@ -13,25 +13,27 @@
   ],
   "homepage": "http://pictopage.com",
   "bugs": {
-    "url": "https://github.com/Artemas-Muzanenhamo/pictopage",
+    "url": "",
     "email": ""
   },
   "license": "MIT",
-  "author": "Pictopage",
+  "author": "Artemas Muzanenhamo",
   "contributors": [
-    "Artemas Muzanenhamo (http://pictopage.com)"
+    "Artemas Muzanenhamo (http://pictopage.com/)"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Artemas-Muzanenhamo/pictopage"
+    "url": "https://github.com/Artemas-Muzanenhamo/pictopage.git"
   },
   "dependencies": {
-    "bootstrap": "*",
-    "jquery": "*",
-    "popper.js": "*"
+    "bootstrap": "^4.0.0-beta",
+    "bootstrap-social": "^5.1.1",
+    "jquery": "^3.2.1",
+    "jquery.easing": "^1.4.1",
+    "popper.js": "^1.11.1"
   },
   "devDependencies": {
-    "browser-sync": "*",
-    "gulp": "*"
+    "browser-sync": "2.18.13",
+    "gulp": "^3.9.1"
   }
 }
