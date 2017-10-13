@@ -4,4 +4,4 @@
 [![Docker Build Statu](https://img.shields.io/docker/build/artemas/pictopage.svg)](https://hub.docker.com/r/artemas/pictopage/)
 [![Build Status](https://travis-ci.org/Artemas-Muzanenhamo/pictopage.svg?branch=develop)](https://travis-ci.org/Artemas-Muzanenhamo/pictopage)
 
-Pictopage Website Content...
+Pictopage Website Content.
