@@ -5,7 +5,6 @@
 [![Build Status](https://travis-ci.org/Artemas-Muzanenhamo/pictopage.svg?branch=develop)](https://travis-ci.org/Artemas-Muzanenhamo/pictopage)
 [![Docker Pulls](https://img.shields.io/docker/pulls/artemas/pictopage.svg?style=plastic)](https://hub.docker.com/r/artemas/pictopage/)
 
-<<<<<<< HEAD
 # About
 This is a simple website for my [Pictopage](http://pictopage.com/) website.
 
