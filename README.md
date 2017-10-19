@@ -22,6 +22,3 @@ I made up a simple Deployement workflow as below:
 4. Docker will pull **image(s)** from **Dockerhub**.
 5. Docker will stop the existing **image** and start up a new **container** instance of the new **image**.
 6 The webpage will be rendering content of the new container instance !! :smirk:
-=======
-Pictopage Website Content.
->>>>>>> 385e69260a52fd555ce128c71f4d0a34f6d451a1
